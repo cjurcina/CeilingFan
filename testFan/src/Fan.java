@@ -1,4 +1,4 @@
-package testFan;
+
 
 public class Fan {
     private int speed = 0;
